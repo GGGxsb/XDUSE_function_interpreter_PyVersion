@@ -1,0 +1,10 @@
+
+param x [-10, 10, 0.1]
+
+draw sin(x)
+draw cos(x)
+draw x*x/10
+
+draw sin(x) + 1
+
+show
